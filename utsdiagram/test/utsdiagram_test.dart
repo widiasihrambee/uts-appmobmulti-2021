@@ -1,0 +1,8 @@
+import 'package:utsdiagram/utsdiagram.dart';
+import 'package:test/test.dart';
+
+void main() {
+  test('calculate', () {
+    expect(calculate(), 42);
+  });
+}
